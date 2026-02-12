@@ -246,12 +246,6 @@ This project is for educational and research purposes.
 - [FAISS Documentation](https://faiss.ai/)
 - [HuggingFace Transformers](https://huggingface.co/docs/transformers/index)
 
-## ✉️ Contact
-
-**Vaibhav Tamta**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
 ---
 
 *Built with ❤️ using LLaMA 2, LangChain, and open-source AI tools*
